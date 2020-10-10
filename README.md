@@ -1,7 +1,7 @@
-### Hi there 👋
-### I am a ML Professional.
+#### Hi there 👋
+##### I am a ML Professional.
 
-### Connect with me:
+#### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pulkitmehta1985/)](https://www.linkedin.com/in/pulkitmehta1985/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pulkitmehtawork1985@gmail.com)](mailto:pulkitmehtawork1985@gmail.com)
