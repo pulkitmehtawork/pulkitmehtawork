@@ -1,5 +1,5 @@
 #### Hi there 👋
-##### I am a ML Engineer at Infosys Ltd.
+##### I am a ML Engineer at Oracle Ltd.
 
 #### Connect with me:
 
