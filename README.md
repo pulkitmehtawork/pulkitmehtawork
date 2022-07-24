@@ -1,8 +1,6 @@
 #### Hi there 👋
 ##### I am a Data Scientist at Metacube Softwares
 
-- LeetCode: [![LeetCode user pulkitmehtawork1985](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fxy-li&logo=leetcode&logoColor=yellow)](https://leetcode.com/pulkitmehtawork1985/)
-
 #### Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pulkitmehta1985/)](https://www.linkedin.com/in/pulkitmehta1985/)
