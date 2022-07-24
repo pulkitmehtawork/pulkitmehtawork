@@ -1,5 +1,5 @@
 #### Hi there 👋
-##### I am a ML Engineer at Oracle Ltd.
+##### I am a Data Scientist at Metacube Softwares
 
 #### Connect with me:
 
