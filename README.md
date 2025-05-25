@@ -1,7 +1,8 @@
 #### Hi there 👋
 ##### I am a Data Scientist at Metacube Softwares
 
-- LeetCode: [![LeetCode Badge](https://leetcode-badge.chyroc.cn/?name=pulkitmehtawork1985)](https://leetcode.com/pulkitmehtawork1985/)
+- LeetCode: ![LeetCode Stats](https://leetcard.jacoblin.cool/pulkitmehtawork1985)
+(https://leetcode.com/pulkitmehtawork1985/)
 
 #### Connect with me:
 
