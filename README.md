@@ -1,5 +1,5 @@
 #### Hi there 👋
-##### I am a Data Scientist at Metacube Softwares
+##### I am a Senior Data Scientist at FirstSource.
 
 - LeetCode: [![LeetCode Stats](https://leetcard.jacoblin.cool/pulkitmehtawork1985)](https://leetcode.com/pulkitmehtawork1985/)
 
