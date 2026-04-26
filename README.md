@@ -1,5 +1,5 @@
 #### Hi there 👋
-##### I am a Senior Data Scientist at FirstSource.
+##### I am a Senior ML Engineer at wald.ai.
 
 - LeetCode: [![LeetCode Stats](https://leetcard.jacoblin.cool/pulkitmehtawork1985)](https://leetcode.com/pulkitmehtawork1985/)
 
